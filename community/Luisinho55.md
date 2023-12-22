@@ -4,7 +4,7 @@ Focado em desenvolvimento back-end, apaixonado por Economia, Estatistica e Anál
 
 ## Sobre Mim 👋
 
-Iniciei minha carreira corporativa em 2021 na Atento, empresa multinacional de telecomunicações, exercendo o cargo de Aprendiz Administrativo na área de recursos humanos e negócios. No ano de 2022 obtive a oportunidade de entrar em um dos melhores hospitais do Brasil, realizando análises, com execuções interligadas à sistemas, para implantações de processos que alavancaram a instituição, registrando altos resultados econômicos.
+Iniciei minha carreira corporativa em 2021 na Atento, uma empresa multinacional de telecomunicações, exercendo o cargo de Aprendiz Administrativo na área de recursos humanos e negócios. No ano de 2022 obtive a oportunidade de entrar em um dos melhores hospitais do Brasil, realizando análises, com execuções interligadas à sistemas, para implantações de processos que alavancaram a instituição, registrando altos resultados econômicos.
 
 ### 💡 Projetos:
 Projeto de Matriz de Prioridade, propriamente desenvolvida ao Hospital Oswaldo Cruz, para hierarquização de ações essenciais, que evitam riscos assistenciais.
