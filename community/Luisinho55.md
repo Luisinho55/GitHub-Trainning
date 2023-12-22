@@ -12,8 +12,11 @@ Projeto de Matriz de Prioridade, propriamente desenvolvida ao Hospital Oswaldo C
 Realização de Diagrama de Ishikawa, para rastreamento de possíveis problemáticas nas execuções, mitigando quaisquer impeditivos nas atividades dentro do hospital.
  
 #### Formação Acadêmica:
-    🎓 Técnico em Administração - Senac
+    🎓 Técnico em Administração - Senac 
+    abr/22 - out/23
+
     🎓 Colégio Centenário - Ensino Médio
+    2018 - 2020
 
 ## GitHub
 
